@@ -51,4 +51,6 @@ Construction  civil engineer         2002-2008
 *  Kaggle 
  
    python challenge,    fall 2019
+* Kale academy 
+   full stack ,  feb 2020
                                                                                             Transitions to Success ( English and Computer Course)  Spring 2018
