@@ -51,7 +51,7 @@ Construction  civil engineer         2002-2008
 *  Kaggle 
  
    python challenge,    fall 2019
-* Kale academy 
+* Kal academy 
 
    full stack ,  feb 2020
                                                                                          
