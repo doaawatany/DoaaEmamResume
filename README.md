@@ -56,5 +56,5 @@ Construction  civil engineer         2002-2008
 * Kal academy 
 
    full stack boot camp  React / Redux / Angular /Data Structure and Algorithms ,
-   feb 2020--July 2020
+   feb 2020-July 2020
                                                                                          
