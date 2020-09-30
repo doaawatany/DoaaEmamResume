@@ -57,7 +57,7 @@ Construction  civil engineer         2002-2008
 
    full stack boot camp  React / Redux / Angular /Data Structure and Algorithms ,
    feb 2020-July 2020 ,
-   collaborated to build SnapShare web page application <https://warm-plateau-10310.herokuapp.com/> ,<https://github.com/Demam20/Snapshare.git> ,
+   collaborated to build SnapShare web page application <https://warm-plateau-10310.herokuapp.com/> , <https://github.com/Demam20/Snapshare.git> ,
    collaborated to build a TVshow web app <https://github.com/Vaishnavi-CR/Assignment-1.git> ,
    built a Grocery list manager by Anguar 6 <https://github.com/Demam20/AngularGrocery1.git> , 
                                                                                          
