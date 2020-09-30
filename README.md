@@ -48,7 +48,7 @@ Construction  civil engineer         2002-2008
     
   Introduction to Computer Science and Programming in Python,   spring 2019   
 
-*coursera 
+*  coursera 
 
    HTML, CSS, and Javascript for Web Developers
    by Johns Hopkins University, Jan 2020
