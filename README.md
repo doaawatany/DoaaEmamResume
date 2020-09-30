@@ -46,7 +46,7 @@ Construction  civil engineer         2002-2008
 
 *  MIT website (online open course)
     
-  Introduction to Computer Science and Programming in Python,   spring 2019   
+   Introduction to Computer Science and Programming in Python,   spring 2019   
 
 *  Coursera 
 
