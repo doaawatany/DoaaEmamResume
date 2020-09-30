@@ -6,7 +6,7 @@ Redmond, WA 98053
 
 (203)810-0816
 
-<https://mail.google.com/mail/u/1/#inbox>
+<doaaelkarawan12@gmail.com>
 
 ## Profile 
 
